@@ -3,7 +3,7 @@ export default class Team {
     this.players = players;
   }
 
-    *[Symbol.iterator]() {
-        yield* this.players;
-    }
+  * [Symbol.iterator]() {
+    yield* this.players;
+  }
 }
