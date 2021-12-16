@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/0qbvl5e74hn8lek7?svg=true)](https://ci.appveyor.com/project/ajoq/ajs-homeworks-11-symbols-iterators-generators-11-2)
+
 # Домашнее задание к лекции «Символы, итераторы, генераторы»
 
 **Важно**: код должен проходить ESLint без ошибок.
